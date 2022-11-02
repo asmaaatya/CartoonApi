@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CartoonApi</string>
+    <string name="chrachter_name">name</string>
+    <string name="chrachter_status">status</string>
+    <string name="chrachter_gender">gender</string>
+    <string name="chrachter_species">species</string>
+</resources>
